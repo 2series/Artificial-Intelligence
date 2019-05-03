@@ -1,4 +1,4 @@
-## AI With Python
+## Artificial Intelligence
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
