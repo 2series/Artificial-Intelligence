@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
-1 - [Introduction to Python](https://github.com/2series/Artificial-Intelligence/tree/master/1%20-%20Introduction%20to%20Python)
+1 - [Python](https://github.com/2series/Artificial-Intelligence/tree/master/1%20-%20Introduction%20to%20Python)
 
 2 - [Numpy, Pandas, Matplotlib](https://github.com/2series/Artificial-Intelligence/tree/master/2%20-%20Numpy%2C%20Pandas%2C%20Matplotlib%20)
 
